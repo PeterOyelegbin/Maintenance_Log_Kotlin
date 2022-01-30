@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Maintenance Log</string>
+    <string name="menuExit">Exit</string>
+    <string name="exit">Exit</string>
+    <string name="menuAbout">About</string>
+    <string name="menuDeleteSchedule">Delete Data</string>
+    <string name="menuUpdateSchedule">Update/Feth Data</string>
+    <string name="menuAddSchedule">Add Data</string>
+    <string name="menuLogOut">Log Out</string>
+</resources>
